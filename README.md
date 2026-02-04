@@ -8,10 +8,18 @@ This repository demonstrates an end-to-end Data Engineering and Business Intelli
 
 The architecture follows industry best practices by segregating data into three distinct layers to ensure quality, traceability, and performance.
 
+### 🗺️ 1. High-Level System Architecture
+The overall flow from source systems through the warehouse layers to final consumption by BI tools.
 ![Data Architecture](docs/data_architecture.png)
+
+### 🌊 2. Data Lineage & Pipeline Flow
+A detailed view of how specific tables from ERP and CRM sources move through the Bronze and Silver layers to form the Gold layer models
 ![Data Flow](docs/data_flow.png)
+
+### 🔗 3. ERP & CRM Data Integration
+Visual representation of the relationships and primary/foreign key mappings used to integrate disparate source systems.
 ![Data Integration](docs/data_integration.png)
-![Data Model](docs/data_model.png)
+
 
 
 
