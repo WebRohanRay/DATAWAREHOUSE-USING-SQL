@@ -11,7 +11,7 @@ The architecture follows industry best practices by segregating data into three 
 ![Data Architecture](docs/data_architecture.png)
 ![Data Flow](docs/data_flow.png)
 ![Data Integration](docs/data_integration.png)
-![Data Model](docs/data_Model.png)
+![Data Model](docs/data_model.png)
 
 
 
