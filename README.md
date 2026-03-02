@@ -1,4 +1,4 @@
-# 🚀 Modern Data Warehouse & Analytics Project
+-# 🚀 Modern Data Warehouse & Analytics Project
 
 This repository demonstrates an end-to-end Data Engineering and Business Intelligence solution. The project transforms raw, disparate data from **ERP** and **CRM** systems into a structured **Star Schema** using the **Medallion Architecture** to provide actionable business insights.
 
@@ -71,3 +71,4 @@ data-warehouse-project/
 │   └── gold/           # Final analytical model creation
 │
 ├── tests/              # Data validation and unit test scripts
+
